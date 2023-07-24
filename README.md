@@ -1,2 +1,2 @@
 # Video-preview
-My first project using HTML/CSS
+My first project using HTML/CSS/JS
